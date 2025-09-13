@@ -1,0 +1,15 @@
+{
+  "name": "Fouques’t Suite",
+  "short_name": "Fouques’t",
+  "start_url": "/fouquest-suite-v9.0/",
+  "display": "standalone",
+  "background_color": "#FFF8E7",
+  "theme_color": "#5A0D0D",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
