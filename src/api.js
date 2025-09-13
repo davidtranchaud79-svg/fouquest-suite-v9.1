@@ -1,6 +1,6 @@
 // Minimal API client for Apps Script backend
 const CONFIG = {
-  BASE_URL: 'https://script.google.com/macros/s/AKfycbxj-n78vGkNf0xbnFDsssndYHXpebR4t6-m2M0W04i7Va_VRIl6nzPN9wbJXHdxGQ5FJw/exec', // TODO: replace after Apps Script deploy
+  BASE_URL: 'https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLhUUD2il5XnQR4ldJUiJcqQ5pEdR3e_OMA8uH3TnGpoHtwlVK_3M4ITAN-xygPv4ohujc3MudUzydgrBQbHRS_IVFviZWZ3ncF7hh4jBVUBEO4tTQvJZP7VjVvv8tM_omEFgSyxMqU52vDoKqWzg9_rzynPI-djufnzciYXi_kyHNswBlxXgtfQfIF6GArOWBTxJFajKCnJ9_01fqAo1O1r56TUzqcohq4FJMc1VURFQmYU0zG7BcTR47nGjDlHMXLZouELh8kfy21WEJxGGiLNedc4BCoVP1fRML71&lib=MVZwdSUCKQ_aVeOo_Urm4lbiIB6nNW46w', // TODO: replace after Apps Script deploy
   API_KEY: '', // optional if enabled server-side
 };
 
